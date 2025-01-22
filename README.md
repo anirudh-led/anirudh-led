@@ -12,8 +12,7 @@ Hello! I'm a passionate developer and tech enthusiast, currently working on vari
 
 ## Current Projects 🛠️
 
-- **Traditional Thindis**: Designing an Indian restaurant app 🍛.
-- **Rock-Paper-Scissors Gesture Recognition**: Working on a project using OpenCV and TensorFlow to recognize gestures ✋🤚✊.
+- **MNIST Dataset model**: Working on a project using Pytorch to recognize numbers 🔢.
 - **Book Management App**: Developing a book management system with React, Node.js, and MySQL 📚.
 - **Italian Food Dishes Dataset**: Creating a dataset to classify Italian dishes 🍝.
 
