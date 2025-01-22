@@ -1,16 +1,26 @@
-## Hi there 👋
+# About Me 👋
 
-<!--
-**anirudh-led/anirudh-led** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a passionate developer and tech enthusiast, currently working on various projects involving programming, machine learning, and web development. 🚀
 
-Here are some ideas to get you started:
+## Skills & Technologies 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages**: JavaScript, Python, SQL
+- **Frameworks & Libraries**: React, Node.js, Express.js, Tailwind CSS, TensorFlow, OpenCV, Chart.js
+- **Tools**: GitHub Codespaces, Nodemon, smtplib
+- **Databases**: MySQL
+- **Other Interests**: Open source, machine learning, web design
+
+## Current Projects 🛠️
+
+- **Traditional Thindis**: Designing an Indian restaurant app 🍛.
+- **Rock-Paper-Scissors Gesture Recognition**: Working on a project using OpenCV and TensorFlow to recognize gestures ✋🤚✊.
+- **Book Management App**: Developing a book management system with React, Node.js, and MySQL 📚.
+- **Italian Food Dishes Dataset**: Creating a dataset to classify Italian dishes 🍝.
+
+## Music Interests 🎶
+
+I enjoy listening to rap music, especially tracks by Snoop Dogg and Dr. Dre 🎧.
+
+## Contact 📬
+
+Feel free to reach out if you want to collaborate or chat about anything related to tech! 🤝
