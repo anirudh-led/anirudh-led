@@ -7,13 +7,13 @@ Hello! I'm a passionate developer and tech enthusiast, currently working on vari
 - **Programming Languages**: JavaScript, Python, SQL
 - **Frameworks & Libraries**: React, Node.js, Express.js, Tailwind CSS, TensorFlow, OpenCV, Chart.js
 - **Tools**: GitHub Codespaces, Nodemon, smtplib
-- **Databases**: MySQL
+- **Databases**: MySQL, MongoDB, SQlite
 - **Other Interests**: Open source, machine learning, web design
 
 ## Current Projects 🛠️
 
 - **MNIST Dataset model**: Working on a project using Pytorch to recognize numbers 🔢.
-- **Book Management App**: Developing a book management system with React, Node.js, and MySQL 📚.
+- **Book Management App**: Developing a book management system with React, Node.js, and MongoDB 📚.
 - **Italian Food Dishes Dataset**: Creating a dataset to classify Italian dishes 🍝.
 
 ## Music Interests 🎶
@@ -22,4 +22,5 @@ I enjoy listening to rap music, especially tracks by Snoop Dogg and Dr. Dre 🎧
 
 ## Contact 📬
 
+# Website: https://anirudh-led.github.io
 Feel free to reach out if you want to collaborate or chat about anything related to tech! 🤝
