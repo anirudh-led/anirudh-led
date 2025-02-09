@@ -9,6 +9,7 @@ Hello! I'm a passionate developer and tech enthusiast, currently working on vari
 - **Tools**: GitHub Codespaces, Nodemon, smtplib
 - **Databases**: MySQL, MongoDB, SQlite
 - **Other Interests**: Open source, machine learning, web design
+- ![anirudh-led's Stats](https://github-readme-stats.vercel.app/api?username=anirudh-led&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 ## Current Projects 🛠️
 
