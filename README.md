@@ -16,11 +16,7 @@ Hello! I'm a passionate developer and tech enthusiast, currently working on vari
 - **MNIST Dataset model**: Working on a project using Pytorch to recognize numbers 🔢.
 - **Book Management App**: Developing a book management system with React, Node.js, and MongoDB 📚.
 - **Italian Food Dishes Dataset**: Creating a dataset to classify Italian dishes 🍝.
-
-## Music Interests 🎶
-
-I enjoy listening to rap music, especially tracks by Snoop Dogg and Dr. Dre 🎧.
-
+  
 ## Contact 📬
 
 ### Website: https://anirudh-led.github.io
